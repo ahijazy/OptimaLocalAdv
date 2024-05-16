@@ -1,13 +1,5 @@
-cohortId,cohort_name
-1081,Localized prostate cancer
-1083,locally advanced prostate cancer
-326,[PIONEER 2.0] Gleason Grade 1 at Dx FINAL
-444,[PIONEER 2.0] Gleason Grade 2 at Dx FINAL
-445,[PIONEER 2.0] Gleason Grade 3 at Dx FINAL
-446,[PIONEER 2.0] Gleason Grade 4 at Dx FINAL
-447,[PIONEER 2.0] Gleason Grade 5 at Dx FINAL
-411,[PIONEER 2.0] PSA 10-20 at Dx FINAL
-410,[PIONEER 2.0] PSA below 10 at Dx FINAL
-398,[PIONEER 2.0] PSA above 20 at Dx FINAL
-453,[PIONEER 2.0] Symptomatic progression-FINAL
-1082,Death
+cohortId,cohort_name,atlasId
+14, Non Metastatic prostate cancer,14
+17, Metastasis,17
+10, Death,10
+9, Symptomatic progression,9
